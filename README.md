@@ -33,12 +33,5 @@ bash
 
 pip install -r requirements.txt
 
-## Usage
 
-To run QuoraInsight, execute the following command:
 
-bash
-
-python quora_insight.py
-
-Replace quora_insight.py with the name of your main script.
