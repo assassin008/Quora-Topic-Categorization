@@ -1,7 +1,7 @@
-# QuoraInsight: Topic Discovery and Categorization Engine
+# Quora Insight: Topic Discovery and Categorization Engine
 
 ## Overview
-QuoraInsight is a sophisticated text analysis project aimed at uncovering and categorizing the underlying topics within a vast collection of Quora questions. Utilizing Non-negative Matrix Factorization (NMF) alongside advanced natural language processing techniques, this engine efficiently distills the essence of over 400,000 questions, grouping them into coherent, identifiable topics for easier navigation, analysis, and insight generation.
+Quora Insight is a sophisticated text analysis project aimed at uncovering and categorizing the underlying topics within a vast collection of Quora questions. Utilizing Non-negative Matrix Factorization (NMF) alongside advanced natural language processing techniques, this engine efficiently distills the essence of over 400,000 questions, grouping them into coherent, identifiable topics for easier navigation, analysis, and insight generation.
 
 ## Features
 - **Topic Discovery**: Implements NMF to identify distinct topics within the Quora questions dataset.
