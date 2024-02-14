@@ -13,8 +13,8 @@ Quora Insight is a sophisticated text analysis project aimed at uncovering and c
 To get started with QuoraInsight, clone this repository to your local machine. Ensure you have Python installed, along with the necessary libraries such as `pandas`, `scikit-learn`, and `nltk`.
 
 ```bash
-git clone [your-repository-url]
-cd [your-project-directory]
+git clone https://github.com/assassin008/Quora-Topic-Categorization
+cd directory
 ```
 
 ## Prerequisites
